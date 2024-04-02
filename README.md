@@ -2,7 +2,7 @@
 
 # DataSet (kaggle)
 >
->[Link for Dataset](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset)
+>[Dataset](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset)
 
 
 
@@ -15,3 +15,4 @@
 
 # Output Screen Shots:
 
+![Screenshot 1](https://github.com/HARISH-B-2001/Medicinal-Leaf-Classification--Android-/edit/main/image.jpg?raw=true)
