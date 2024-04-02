@@ -15,4 +15,4 @@
 
 # Output Screen Shots:
 
-![Screenshot 1](https://github.com/HARISH-B-2001/Medicinal-Leaf-Classification--Android-/edit/main/Output/1.jpg?raw=true)
+![Screenshot 1](https://github.com/HARISH-B-2001/Medicinal-Leaf-Classification--Android-/edit/main/Output/1.png?raw=true)
