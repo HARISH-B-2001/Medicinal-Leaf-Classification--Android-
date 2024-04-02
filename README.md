@@ -2,6 +2,8 @@
 
 # Quick Start:
 > install npm
+> 
 > install expo
+> 
 > install node js
   
