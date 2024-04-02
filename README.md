@@ -6,4 +6,6 @@
 > install expo
 > 
 > install node js
-  
+
+# Output Screen Shots:
+
