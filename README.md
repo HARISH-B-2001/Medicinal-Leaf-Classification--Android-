@@ -16,3 +16,5 @@
 # Output Screen Shots:
 
 ![Screenshot 1](Output/splash.png)
+
+![Screenshot 1](Output/2.png)
